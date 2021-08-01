@@ -1,0 +1,446 @@
+noperino.
+is it known that in multiplayer when the owner creates a new file it doesn't appear in the filetree for collaborators?
+wait why am i a boomer
+😐
+oh no
+WHAT IS HAPPENING
+im ded
+oh lordy
+what have you done
+oh god
+❤️
+well good luck to y'all, stay safe
+i dont know how to code, only make bugs
+i don't think so 😦
+oof
+even oofer
+oh yeah wait im curious, how many people here have been sent home for the next few weeks
+and have to do some distance learning
+oh okay
+or
+two separate weddings
+did your two cousins get married together
+like
+indeedy you can
+Oh no
+Oh god
+Uhhhhhhhh
+dont worry bout it bruh
+s E c R e T
+errrrrrrrrr
+<:thonk:537810474167959552>
+its on its way
+wait <@224588823898619905> how did you get it <:thonk:537810474167959552>
+👀
+B E T A
+o wait
+yeah git integration when
+strange planet is the best 👌
+for anyone else interested, just DM me 🙃
+on another note, html repls finally show lines for syntax errors 🙃
+❤
+was wondering if anyone wanted to collab on this project 😉
+❤
+sooo this is the idea i had.  user uploads image.  is able to crop the image and save it with its title and any relevant tags.  so its all crowdsourced.  i tried to do the cropping manually last night and realized there were waaaay too many comics haha
+so people love to take individual frames of these wacky characters and use them as like reaction/response memes.  so i had this idea last night where i wanted to build like a library of these things.
+hey guys.  does anyone here read / enjoy / look at `nathan w pyle's strange planet` comics?
+👍
+wait im not an engineer anymore
+*former bug engineer
+Friends, Replers, @everyone , lend me your ears.  Today is my last day at Repl.it.  It's been a real pleasure serving you guys.  I'll still be around the server if you ever want to chat / play some games / meme around, just ping me! Not sure what else to say ¯\_(ツ)_/¯
+I'm sure people will _endlessly_ ask why, so here's why: I want to broaden my experiences at a larger company - working on a team of less than 10 people was real fun but I'd really like to see what the world is like out there.  Working at Repl.it was loads of fun and 10/10 would recommend.
+hello @everyone 
+all reigns of terror must eventually end, and mine is no exception.  from this day onwards, katya is named ~~queen of the seven kingdoms~~ supreme leader of this discord server.  please be sure to direct your memery and lulz towards her.
+✌ , timchen
+Hello everyone!  So we quietly released Drafts as a folder - until we do this via a migration for everyone, here's what you do to get access to "drafts" (unnamed repls folder): * Become an explorer if you aren't one already * Go to your repls dashboard * Created a folder called `Unnamed` (capital U) - WARNING: this is not reversible!  You won't be able to delete this folder. * Voila!  Any new repls you create will be in that folder.  If you give it a name, it will be moved back to your home.
+Please feel free to experiment, and be sure to report any bugs.  Thanks!
+Hello everyone, I just want to reiterate that if you see, experience, or hear of any instances of bullying or unkindness, please screenshot it and send it to me <@437048770237169666>  or <@172488400685760512> ASAP.  We take this seriously and will deal with the situation accordingly.
+hi @everyone! i'd like to introduce you guys to <@535025986241167360> , who will be helping repl.it with competitions and social media.  be sure to say hi to her, and keep an eye out for the next Repl Talk competition coming soon!  More to come in <#439513292294062090> 😃
+Hi @everyone , in celebration of 2000 members, we will be hosting a Repl.it Town Hall today on this server in the voice channel, where the Repl.it team will be present and speaking perms will be turned on for everyone.  This will take place at 4PM PST.  Shoot us questions, get to know us, or just talk to each other!  Hope to see you all there!
+I think we found the bug.  Thanks for participating!  We'll post who gave us the instructions as soon as it's verified fixed. 😃
+there are a few ways that could be interpreted O_o
+<@!314123508827553792> in all seriousness, if you just want to park your money somewhere and not actively manage it, just throw it in a low-fee index fund or something
+you dont want to be a day trader
+kay guys
+They can't
+It's 6am here
+I'm not on vacation but I was asleep
+Oh hello what a morning
+engineering time required to build that bot > time required to delete  things manually
+yeah
+because we only just implemented locking
+done
+but also locking locks voting
+Banned
+I'm on mobile and can't figure it out :|
+negative
+like the moment you get to managing state with jquery across more than one page, its game over
+thats fine, undefined is falsy
+its perfect <@422837173671428097>
+if can do something like
+```javascript if (object.property) {console.log(`${property} exists!`}}```
+instead of `object.contains(property)` or whatever the equivalent is
+<@95891496061902848> i'm on your side on this debate
+<@422837173671428097> it's okay to be wrong 😉
+there's merit in using what everyone else is using. community, more resources, etc
+for a language to be popular, many people would have to find it to be useful/worth something
+i mean, a language that is popular is probably good because of its popularity.  if it weren't good, it probably wouldn't be popular
+i think both can be correct
+i think it depends.  a language can be popular for any number of reasons
+so <@439052807790657557> would you do `if (x) {} else {}` or `if (!x) {} else {}`?
+scratch/snap are totally programming languages 👀
+yeah the UI isn't as smooth (especially with scratch 3 coming out) but the functionality is 🔥
+Go to file -> import tools to get stuff like for loops.  There's also libraries which I haven't played around with yet, but seems neat
+Has anyone used Snap before?  Similar to Scratch, but a lot more powerful.  You can create your own blocks (and use them across sprites), you can type your blocks and everything.  Export blocks and import them into other projects.  It's fantastic for learning.
+but the docs and support around python ML are quite rich and the python ML community is larger than the JS ML community
+er oh, i read that wrong haha nevermind
+<@422743414887546880>  build a front end website with python? 👀
+python syntax enforces good whitespace habits
+dont buy me, buy others
+okay thanks just wanted to check something
+:thonk~5: is the source public
+wew lad i got dumped on
+heck yeah egg rolls corp
+goteeeeeeeee
+hue
+UNLOAD ALL THE THINGS
+😐 😐 😐 😐 😐
+wow
+i can't believe youve done this
+so they're trying to minimize the surface area for which they can be sued, which is 100% understandable
+also, im not sure if you're aware, but people can sue for pretty much anything, and it's _really ducking expensive_ to deal with lawsuits, even superfluous ones
+*fired (we're talking about teachers)(
+don't want to be sued / screamed at by parents / etc
+most teachers only care for the same reasons that _we_ care
+its actually not the teachers either
+its always the parents
+if, in the general eye of the public, we are responsible for you guys, then we _are_, to some degree
+okay anyways look
+<@!487258918465306634> that's actually not true, it was hot enough to give her third degree burns or something, it was def justified
+i don't think you understand how PR works
+y'all need to learn the meaning of liability
+y'all know that i _never_ enabled general external emotes during my time here right?  zwack released those perms cause he's cool, but there are definitely a lot of potential for damage around external emotes that he already outlined.
+being a helper doesnt mean you're better than other people.  it just means you like helping people / you want to be notified when someone needs help.  you shouldnt go into this with the expectation that you'll get any benefits (like external emotes).  this channel alone is a direct line to mods and repl.it team members.
+is this all about external emotes
+except <@!162502976521371648> who needs to learn when to ping roles
+i bow to zwack
+well it seems like nobody needs helping
+<@!162502976521371648> can i help you with something
+do you need help
+helper reporting for duty
+who needs to be helped
+ah okay 👍
+? events
+how does it even post in here
+strange
+try now
+what
+<@224588823898619905> when you get a chance / when you see <@476066476311445524> help him secure his bot, will ya? 😃
+thanks ❤
+oh, i see - they submitted under a different name
+<@!130548661892546560> i dont think theres a perm for deleting messages only, only "Manage messages", which allows them to manage other peoples messages
+ah okay
+so i guess that's done
+dunno, searched <#455493588273332235> and found nothing
+but i don't know who the owner is
+😐
+as a consequence, i'd make you work with the owner to secure the bot
+i know you're good people so i'm not worried
+its okay, i just want you guys to understand the difference between having fun + having fun at other peoples' expense
+i know you're good people so i'm not worried
+Or any number of silly things that don't require admin intervention
+You know?
+Or like adding your own secret command
+You know?
+Like I honestly wouldn't have minded if it was harmless fun like making the bot talk to people or whatever.  But I'm a bit disappointed that you used it to do something you knew that we (server staff) would not be okay with.
+Spam and publicizing token is malicious
+Obviously not as malicious as you could've been, but still malicious
+i really like the new UI 👍
+i believe when i brought that up a while ago the consensus was that it wasn't possible given the current auth setup
+<@239770148305764352> you know php + html exists right? 👀
+<@&437061464990285824> the above link that taeb posted (directly above) is 500ing
+my thing is going great 👍
+also great questions, none of which i would know the answer to 🙂
+thats a good question for repl.it
+🙃
+not for me
+"you" as in me or "you" as in repl.it
+what do you mean
+it works on mobile
+audio has always been a challenge and it not a top priority relative to the other things that are being worked on
+and mobile dev is being worked on by kogs i think
+repl.it has guis
+and mobile dev is being worked on by kogs i think
+<:thonk:537810474167959552> why are you asking me
+repl.it has guis
+<@!356108561232953344> they have to verify with someone on the team that they own the account (somehow) and then a team member can manually change it
+also this is a channel for a very specific purpose
+its in <#437067256049172491> if you want to read it
+i saw this in oof topic
+this seems unrelated to feedback
+imma remove t
+wtf i thought i fixed that image thing
+ill look into it today
+also <@224588823898619905> you can remove yourself from shared repls now
+I'm making pastarino
+For the ENTIRE WEEK
+Wait why did it ping me
+sometimes i write code and teach people things
+Hi, I'm Tim. I taught high school CS for three years. Now I do other stuff. 
+Keep in Touch, a social network for keeping in touch with your friends.
+anyone opposed to medium/high verification level?
+only if it's made on Repl.it :stuck_out_tongue:
+otherwise all the conversations will get mixed up
+great question, i'm not sure - we can check it out though
+oh man, we were just talking about that this morning!  do you have any theme ideas?
+bananas = hidden
+hello!
+i don't think that's possible yet :frowning:
+hi!
+test
+hai i has bug
+I WILL MAKE BUGS FROM BEYOND THE GRAVE
+bugs aint gonna make themselves
+Former CS Teacher who tries to write readable code every now and then
+Why are you hell bent on the destruction of society
+cyber police are on their way
+u dun goofd
+wot u want fite me
+It lets you focus on writing code and deploying apps without making you deal with setting anything up!
+I thought you were director of marketing at replit
+Hey @replit I googled "lodash playground" and you were the first result 
+Wait what
+fake news
+Just put a bucket over it and enjoy immortality
+Independent thought, I dig it 
+Is there a story behind this
+Hey dude what's going on
+or at least, not the posterboys of billionaires that people like to talk about (gates, bezos, etc)
+an issue i have with OP's thread is that nobody actually has billions of dollars in cash. having billions of dollars is very different from being worth billions of dollars
+I mean it definitely helps cut down on some bugs made by both myself and kids - like trying to call a method on a string that only exists in an array, for example. The less runtime bugs to deal with = more time for logic. I wonder what a typescript curriculum looks like 
+There's a lot to dislike about Java but I do think working in a type-safe language is beneficial to students
+Imagine not being able to criticize your own government either
+Didn't you know? Anything < 4.5 stars is garbage tier
+oh of course - you'd get extra style humor points, instant in, ezpz fellowship = secured
+you would if you knew me ;_;
+oh my GOD i was like KIDDING oKAAAY?
+who r u
+you impact me in a huge way
+how clever 1. "accidentally" send out rejection emails to everyone 2. observe reaction on social media 3. "oops it was an accident" 4. now we have more data points for what type of person they are
+Unfortunately it's real and it's for the new, language agnostic APCS exam. Unfortunately, it does jack for students looking to prepare for the exam. Some stuff in the book was just outright wrong. I returned it but I wish I had a copy so I could give examples.
+wait I want to play this game pls notify of release thx
+I feel personally attacked
+Poe's law in full effect
+I had loads of fun at replit, will never forget my time there, and would recommend to any driven engineers looking for a job. Plus, I'll still be around the community!
+Don't worry I left bugs all over the place for you guys to find - have fun!! 
+We parted on good terms and replit is still in good hands, I dunno why y'all are making a big deal out of this 
+Are you implying I don't love my cats like they were human children 
+Thank
+:(
+Sorry, still looking into it, will loop back soon
+Done, you should be set up now :)
+Can you DM me your email and I can take a peek at it?
+Github integration (both up and down) is in development and almost released! Eta a few weeks or less. Re job - send us something at jobs@repl.it :)
+Should be fixed now, thanks for the report. And props to @cannyHQ for the blazing fast response.
+Can you link me to the repl where you are getting that error so we can verify that it's fixed?
+Looking into this - thanks for reporting
+In retrospect, we probably could've just omitted the comparator (so it's just `mostUsedLanguages && mostUsedLanguages.length && (...` but alas, it is merged and in the middle of being deployed.
+3/ it was expecting it to be rendered at the top - only that wasn't happening. So we turned `>` into `>=` and everyone lived happily ever after. :)
+2/ The top languages render conditionally - if you don't have any top langs, we wont show that section. Unfortunately, the condition checked if you had MORE than one top language, and, well, you only had one. In the end, it was removing C#from the main list because...
+Fix is coming out! Thanks for reporting :) 1/ So we have a user's top used languages in a list, and we have all languages in a list. When you open that modal, we remove the your top languages from the "all languages" list because we render your top languages at the top. ...
+Found the issue, now looking for a fix We were really confused at first because it seemed like it was _only_ your account who was affected by this.
+Heya, looking into this
+(in case anyone was wondering, the bug was 100% my fault and i'm just an idiot)
+Was trying to debug the same piece of code for three hours last night with no success. Solved it this morning 10 minutes after waking up. Programming is such a silly thing. 
+"where can I hide a body"
+1. @replit 2. VSCode 3. @digitalocean 4. google 5. google @TheDrone_7 @TheDrone_7 @TheDrone_7 @TheDrone_7 @TheDrone_7
+is this the new fwds from grandma
+personal opinion here but any take home assignment (that don't involve any company employees) longer than 1 hour and not compensated is BS
+varies depending on entry point but generally, short phone call with the CEO -> 45 minute tech phone screen -> full day on site. basically every step of the way you're working with our team so we only want to spend valuable time with candidates we are seriously considering
+You want to look for application processes that invest time in interviewing you just as much you would invest interviewing with them. At @replit interviews are a big investment as far as engineering time goes so we try not to waste anyone's time, esp our own.
+I was a teacher in high school using their classroom product and gave them a lot of feedback. But in any case, in hiring a replacement community manager, we probably would've been okay hiring someone in a similar position. I'm sure other companies are willing to do the same
+I'm not no college, but I have zero formal education in CS. I joined replit as a community manager/support guy and transitioned into an engineering role over the course of like 6 months. It helps that we were 5 people at the time so I could get close up the action
+I try to get started on personal projects maybe 2-3 times after I get home and only 15% of the time does it yield any real productive work (the rest devolves into Reddit), but I ride that wave as far as I can when it happens.
+t h o n k
+Playing around with Python Play by @Glench on @replit is so much fun. Made a virtual ball pen in like 40 lines. Click to create a ball, drag and fling balls around, and press Z to throw them all up in the air!
+Does it count if I pay myself? In college I created a bot to automate an online raffle thing and won maybe $500+ in prizes before they caught on. They're no longer around :|
+The answer is probably directly proportional to how much you threw up in his/her car
+You're supposed to tip Uber drivers???
+We've already been there:
+lol @AlaskaAir pls
+ayyy VOD pls
+I use vscode + cmder for my terminal, works pretty decently
+They're also most active in our community, which gives it higher visibility!
+nah was just curious, thanks!
+is C: 10 expensive or cheap? all the other ones seem to be high = good, low = bad, wondering if cost is reversed
+y tho
+Just landed in Boston, will take a peek as soon as I get to a coffee shop 
+It's in the works, but will be released soon. Try it out here!
+the response when i explained how that site gets updated
+Nope, I'm just bad at dates. :) The advertised end-of-jam from the FAQ post is 4/18 23:29, so we're following that as the source of truth
+100% yes!
+Thanks for reporting - looking into it. Will loop back soon.
+Whoops thanks - fixed!
+Ick, sorry about this. Will tackle it soon.
+Just an inside joke about how we had to make our footer huge to accommodate the ever-growing list of languages 
+Uber driver dropping me off at the airport: have a good flight! Me: you too! Also me:
+Flying + sleep deprivation is probably the closest thing to teleportation I'll experience in my lifetime. I get in a strange machine, pass out, and wake up in my target destination without any memory of the last 6 hours.
+Is dabbing still a thing?
+You're young and hip, what kind of things do I do here
+Oh dang that's exactly what I've been looking for
+Oh hi
+I have a thing now
+How do you Twitter? Someone tell me what to do I'm so lost
+where??
+wow thats obscene
+i have no idea what im looking at
+i forget
+if you give me power i will abuse it
+no i dont want power
+hi
+hes just tweeting netflix recommendations
+says "sudo hack database", now im leet hacker
+technology has truly gone too far
+why have you done this
+oh no
+so i cant apply
+i had an accident a few months ago and i'm blind now
+big oof
+yes you'd be fantastic
+I'm going back to sleep 
+Hi.
+ok im gone bye
+like dont tehy have more recent pictures of asian people they can us
+guess who found a 4-year old picture of themselves in a video from the NYC mayor
+but if its more about me being fat and dying from being fat then pls no
+are you comparing me to a ruthless dictator
+Who summons me
+test the waters,  y'know
+from discord?  every time someone sends a me ssage?
+i thought i set the default notification setting to be mentions only :<
+the gear next to your name/number/icon
+so you can't just spam to level up
+oh shoot i thought those were sent out already.  my bad!  we'll get it done this week.  today or tomorrow
+are you looking to learn javascript for the web?  or just javascript the language
+community support + i do some programming 
+im using the default, which i guess is dark
+caleb won it looks like
+i dont see a color
+good call
+that way you have the whole weekend to get your submission up!
+we like it when you guys look at each other's code!
+no
+haha
+just curious, are you guys learning programming in school?
+i used to be a teacher - i taught programming in high school - 10th, 11th, and 12th grades - and none of my students could do what you guys have done
+and if it's slower, we'd like to debug it
+wait, this seems faster to me
+do you also see bullets stuck in the air?
+hi @mat make me editor pls
+omg hi
+hi, i responded to your post on /bugs
+hi haz
+hi new, i'm dad
+Hi I landed
+hi back! i'm dad
+say hi to rewon and susan for me 
+hi, does anyone know of a library made by anyone here for python key detection on repl.it?
+his word is law
+wait when did my name become tim-chan
+am i some dictator
+picture of said dog as proof pls
+i think china bans google, which Repl.it depends on
+you know asians can live in like places other than asia
+someone managed toi get your bot to say some not nice things
+what kind of bot did you have in mind
+only restriction is that if its a gif it should be as small as possible (<300kb or so)
+minimum legal working age
+i think its a bit naive to think that crypto would be allowed
+don't mine crypto on our systems
+the company selling it needs to make money, yes
+i will ban every last one of you
+ping me all day baby
+baby steps i think
+what if mat became owner for a day
+do you know how to loop through every letter in a string in python?
+have y'all used python play yet
+this server is just one massive bug
+i think we're set on discord bots for now
+haya has one, and then there's another floating one
+lol my registered domains are just reminders of all the projects i started but never finished
+just reiterate the rules and if its not sinking in, let me or someone else take care of it
+bruh its like 10pm here whe would we sleep
+bruh i havent been on in a while
+timchen PILLOW?
+i take input and i have output.  timchen = function confirmed
+once i remove that from package.json, it then moves to a different error re discord.js (no longer has the blob thing)
+i want me some zwack merch
+i 8xed on google and 3xed on MSFT
+does mat not like google or something
+rob is the god
+btw banana what did microsoft do to minecraft?
+what kind of cake tho
+if youre doing multiplayer and yall are on different gates youre gonna have a bad time
+good night's bad sleep O_o
+or maybe not "so much compute" but it matched whatever system they have for detecting crypto mining
+without context it looks like you just took a picture of a computer
+fried cheese curds and beer
+dude that mac and cheese pizza though
+that repl still doesnt work, even trying to install through the shell.  can't install chess via pip install chess
+dogs = better to play with, cats = better to mess around with
+Btw re bans they're just repl talk bans
+AdMiN aBuSe
+can't believe this was just sent out in an email to every teacher on repl.it :joy:
+bruh
+thanks help-kill-aa
+ok actually leaving now bye
+eating leftover pizza
+okay its noon, time for me to lunch
+nah, our customers aren't as goofy as y'all
+like 500?
+i make so many good bugs now
+anyways yea they have dumb pics of me they want to add to timchen.tk so if you know how they can submit pics let me know
+i cant buy what i already own
+dont buy me anything
+they want to know where they can contribute
+my coworkers found it and they have a great time with it
+timchen.tk is great
+wow you think all asians look alike
+smh
+we've met
+hi :potato:
+<@224588823898619905> dm me that server info
+no promises ill be on much
+sure
+👍 usually weekends
+👍
+not at home so ill accept later
+or something
+oh uh some stranger
+on uplay i think im like ChickanWheee
+or something
+👍
+👀
+add me on uplay
+<@!130548661892546560>
+(and whoever else)
+wait but i didnt even tell you who i am
+ayyy i also play siege
+add me on uplay
+no i just have the same name as the founder/ceo
+but i own replit stock so pls make replit great ty
+i love that it's still active
+i don't believe in friends
+my children
+this chat moves way too fast
+fav veg daikon
+im just at work
+who doesnt work at replit anymore
+i am but a normal dude
+mods literally not doing their jobs
+yeah where are my royalties
+!ban minx
+double parrot
+>:|
+im about to be on break until tuesday next week
+goddamn invariant violations
